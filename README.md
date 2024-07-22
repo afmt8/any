@@ -1,5 +1,5 @@
 line1
-line3S
+line3
 
 line2
 # any
