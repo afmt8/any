@@ -49,3 +49,10 @@ for sentence in classified_sentences["positive"]:
 print("\nNegative sentences:")
 for sentence in classified_sentences["negative"]:
     print(sentence)
+
+
+
+
+print("###############################################################")
+
+
